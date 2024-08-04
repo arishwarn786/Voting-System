@@ -1,4 +1,4 @@
-# Online-Voting-System-or-CR-Election-System
+# Voting-System
 SE-133 Software Development Capstone Project by C/C++
 
 
